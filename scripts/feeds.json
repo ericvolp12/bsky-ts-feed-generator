@@ -1,0 +1,94 @@
+[
+    {
+        "recordName": "cl-web3",
+        "displayName": "Web3 Cluster Feed",
+        "description": "A feed of all posts from authors in the Web3 Cluster"
+    },
+    {
+        "recordName": "cl-tqsp",
+        "displayName": "Trans+Queer Shitposters",
+        "description": "A feed of all posts from authors in the Trans + Queer Shitposters Cluster"
+    },
+    {
+        "recordName": "cl-brasil",
+        "displayName": "Brasil Supercluster",
+        "description": "A feed of all posts from authors in the Brasil Supercluster"
+    },
+    {
+        "recordName": "cl-persian",
+        "displayName": "Persian Language",
+        "description": "A feed of all posts from authors in the Persian language cluster"
+    },
+    {
+        "recordName": "cl-turkish",
+        "displayName": "Turkish Language",
+        "description": "A feed of all posts from authors in the Turkish language cluster"
+    },
+    {
+        "recordName": "cl-japanese",
+        "displayName": "Japanese Language",
+        "description": "A feed of all posts from authors in the Japanese language cluster"
+    },
+    {
+        "recordName": "cl-eng",
+        "displayName": "English Language",
+        "description": "A feed of all posts from authors in the English language cluster"
+    },
+    {
+        "recordName": "cl-korean",
+        "displayName": "Korean Language",
+        "description": "A feed of all posts from authors in the Korean language cluster"
+    },
+    {
+        "recordName": "cl-tpot",
+        "displayName": "TPOT Cluster Feed",
+        "description": "A feed of all posts from authors in the TPOT Cluster"
+    },
+    {
+        "recordName": "negativifeed",
+        "displayName": "NegativiFeed",
+        "description": "A feed of negative posts from the whole network (as determined by sentiment analysis)",
+        "avatar": "logos/negativifeed.png"
+    },
+    {
+        "recordName": "hellthread",
+        "displayName": "Hellthread Feed",
+        "description": "A feed of all Hellthread posts"
+    },
+    {
+        "recordName": "positivifeed",
+        "displayName": "PositiviFeed",
+        "description": "A feed of positive posts from the whole network (as determined by sentiment analysis)",
+        "avatar": "logos/positivifeed.png"
+    },
+    {
+        "recordName": "cv:bird",
+        "displayName": "Bird Pics",
+        "description": "A feed of bird pictures from the whole network (sometimes not birds)",
+        "avatar": "logos/bird-feed.png"
+    },
+    {
+        "recordName": "cv:dog",
+        "displayName": "Dog Pics",
+        "description": "A feed of dog pictures from the whole network (sometimes not dogs)",
+        "avatar": "logos/dog-feed.png"
+    },
+    {
+        "recordName": "cv:cat",
+        "displayName": "Cat Pics",
+        "description": "A feed of cat pictures from the whole network (sometimes not cats)",
+        "avatar": "logos/cat-feed.png"
+    },
+    {
+        "recordName": "animals",
+        "displayName": "Cute Animal Pics",
+        "description": "A feed of cute animal pictures from the whole network",
+        "avatar": "logos/animal-feed.png"
+    },
+    {
+        "recordName": "food",
+        "displayName": "Food Pics",
+        "description": "A feed of food pictures from the whole network",
+        "avatar": "logos/food-feed.png"
+    }
+]
